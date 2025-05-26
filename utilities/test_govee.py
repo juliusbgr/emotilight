@@ -22,4 +22,4 @@ async def main(): #async function so that program is not blocked while waiting f
 if __name__ == "__main__":
     asyncio.run(main())
 
-# run python test_govee.py in terminal (bulb needs to be on and connected to the same network)
+# run python test_govee.py in terminal (bulb needs to be on and connected to the same network -> mobile hotspot)
