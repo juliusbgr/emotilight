@@ -17,13 +17,13 @@ def compute_stress_factor(calendar_stress, mood_score, wearable_stress):
 
 def get_light_state(stress_factor):
     if stress_factor > 0.7:
-        return "alarm", (255, 0, 0)      # red
+        return "alarm", (255, 0, 0), 100      # red + brightness 100%
     elif stress_factor > 0.5:
-        return "focus", (255, 255, 255)  # white
+        return "focus", (255, 255, 255), 80  # white + brightness 80%
     elif stress_factor > 0.3:
-        return "calm", (255, 165, 0)     # orange
+        return "calm", (255, 165, 0), 60     # orange + brightness 60%
     else:
-        return "rest", (0, 0, 255)       # blue
+        return "rest", (0, 0, 255), 30       # blue + brightness 30%
 
 
 async def main(): #async function so that program is not blocked while waiting for the API response
@@ -33,7 +33,7 @@ async def main(): #async function so that program is not blocked while waiting f
     wearable_input = 0.8 #already normalized from other code
 
     stress_factor = compute_stress_factor(calendar_stress, mood_score, wearable_input)
-    light_state, rgb = get_light_state(stress_factor)
+    light_state, rgb, brightness = get_light_state(stress_factor)
 
     govee = Govee(api_key=API_KEY)
     devices = await govee.get_devices()
@@ -43,9 +43,11 @@ async def main(): #async function so that program is not blocked while waiting f
         return
 
     device = devices[0]
-    print(f"Setting {device.device_name} to '{light_state}' mode (stress: {stress_factor:.2f})")
+    print(f"Setting {device.device_name} to '{light_state}' mode (stress: {stress_factor:.2f})"
+          f"(stress: {stress_factor:.2f}, brightness: {brightness}%)")
     await govee.turn_on(device)
     await govee.set_color(device, *rgb)  #light color based on stress factor
+    await govee.set_brightness(device, brightness)
 
 if __name__ == "__main__":
     asyncio.run(main())
