@@ -55,7 +55,7 @@ async def main():
         return
 
     device = devices[0]
-    print(f"Setting {device.device_name} to '{light_state}' mode "
+    print(f"Setting {device} to '{light_state}' mode "
           f"(stress: {stress_factor:.2f}, brightness: {brightness}%)")
     
     await govee.turn_on(device)
