@@ -31,11 +31,11 @@ def get_light_state(stress_factor):
         return "cool_rest", (180, 220, 255), 30    # cool light blue
 
 async def main():
-    load_dotenv()
-    api_key = os.getenv("GOVEE_API_KEY")
-    if not api_key:
-        print("API key missing.")
-        return
+    # load_dotenv()
+    # api_key = os.getenv("GOVEE_API_KEY")
+    # if not api_key:
+    #     print("API key missing.")
+    #     return
 
     calendar_stress = 0.8
     mood_stress = None
@@ -43,19 +43,22 @@ async def main():
 
     stress_factor = compute_stress_factor(calendar_stress, mood_stress, wearable_stress)
     light_state, rgb, brightness = get_light_state(stress_factor)
+    
+    print(f"Computed stress factor: {stress_factor:.2f}")
+    print(f"Light state: {light_state}, RGB: {rgb}, Brightness: {brightness}%")
 
-    async with Govee(api_key=api_key, learning_storage=YourLearningStorage()) as govee:
-        devices, err = await govee.get_devices()
-        if err or not devices:
-            print("Error getting devices:", err)
-            return
+    # async with Govee(api_key=api_key, learning_storage=YourLearningStorage()) as govee:
+    #     devices, err = await govee.get_devices()
+    #     if err or not devices:
+    #         print("Error getting devices:", err)
+    #         return
 
-        device = govee.device(devices[0].device)  # not just devices[0]!
-        print(f"Setting {device} to '{light_state}' mode (stress: {stress_factor:.2f}, brightness: {brightness}%)")
+    #     device = govee.device(devices[0].device)  # not just devices[0]!
+    #     print(f"Setting {device} to '{light_state}' mode (stress: {stress_factor:.2f}, brightness: {brightness}%)")
 
-        await govee.turn_on(device)
-        await govee.set_color(device, rgb)
-        await govee.set_brightness(device, brightness)
+    #     await govee.turn_on(device)
+    #     await govee.set_color(device, rgb)
+    #     await govee.set_brightness(device, brightness)
 
 if __name__ == "__main__":
     asyncio.run(main())
