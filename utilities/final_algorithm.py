@@ -30,6 +30,7 @@ def get_light_state(stress_factor):
     else:
         return "cool_rest", (180, 220, 255), 30    # cool light blue
 
+import check_ins
 async def main():
     # load_dotenv()
     # api_key = os.getenv("GOVEE_API_KEY")
@@ -37,8 +38,8 @@ async def main():
     #     print("API key missing.")
     #     return
 
+    mood_stress = check_ins.main()
     calendar_stress = 0.8
-    mood_stress = None
     wearable_stress = None
 
     stress_factor = compute_stress_factor(calendar_stress, mood_stress, wearable_stress)
