@@ -1,6 +1,7 @@
 # utilities/heart_rate.py
 
 import pandas as pd
+import os
 
 class HeartRateProcessor:
     def __init__(self, csv_path, user_id):
@@ -37,7 +38,7 @@ class HeartRateProcessor:
 
 #Main execution
 processor = HeartRateProcessor(
-    csv_path='utilities/heart_rate_data/heartrate_seconds_merged.csv',
+    csv_path=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_merged.csv'),
     user_id=2022484408
 )
 
