@@ -2,6 +2,7 @@
 
 import pandas as pd
 import os
+from datetime import datetime
 
 class HeartRateProcessor:
     def __init__(self, csv_path, user_id):
@@ -19,6 +20,7 @@ class HeartRateProcessor:
         df = df.set_index('Time').resample('30min').mean().reset_index()
         df = df.rename(columns={'Value': 'avg_30_min'})
         df = df[['Time', 'avg_30_min']].dropna()
+        df['only_time'] = df['Time'].dt.time
         self.df_30min = df
 
     @staticmethod
@@ -37,14 +39,29 @@ class HeartRateProcessor:
         return self.df_30min
 
 #Main execution
-processor = HeartRateProcessor(
-    csv_path=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_merged.csv'),
-    user_id=2022484408
-)
 
-processor.load_data()
-processor.calculate_rolling_avg()
-processor.add_stress_score()
+def get_wearable_stress_score(time):
+    processor = HeartRateProcessor(
+        csv_path=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_merged.csv'),
+        user_id=2022484408
+    )
 
-df_result = processor.get_processed_df()
-print(df_result)
+    processor.load_data()
+    processor.calculate_rolling_avg()
+    processor.add_stress_score()
+
+    df_result = processor.get_processed_df().copy().sort_values(by='Time').reset_index(drop=True)
+
+    input_time = datetime.strptime(time, "%H:%M").time()
+    
+    # Filter rows ending at or before input time
+    filtered = df_result[df_result['only_time'] <= input_time]
+
+    if filtered.empty:
+        return None
+
+    latest_row = filtered.iloc[-1]
+    return latest_row['stress_score']
+    
+    
+    

@@ -3,6 +3,7 @@ import os
 from dotenv import load_dotenv
 from govee_api_laggat import Govee, GoveeAbstractLearningStorage, GoveeLearnedInfo
 from typing import Dict
+import re
 
 # Dummy learning storage / can be used to store learned information for automation later on
 class YourLearningStorage(GoveeAbstractLearningStorage):
@@ -31,6 +32,8 @@ def get_light_state(stress_factor):
         return "cool_rest", (180, 220, 255), 30    # cool light blue
 
 import check_ins
+import heart_rate
+
 async def main():
     # load_dotenv()
     # api_key = os.getenv("GOVEE_API_KEY")
@@ -39,8 +42,15 @@ async def main():
     #     return
 
     mood_stress = check_ins.main()
+    
+    while True:
+        user_time = input("Enter a time (hh:mm): ")
+        if re.match(r"^(?:[01]\d|2[0-3]):[0-5]\d$", user_time):
+            break
+        print("Invalid format. Please enter time as hh:mm (e.g., 14:30).")
+        
     calendar_stress = 0.8
-    wearable_stress = None
+    wearable_stress = heart_rate.get_wearable_stress_score(user_time)
 
     stress_factor = compute_stress_factor(calendar_stress, mood_stress, wearable_stress)
     light_state, rgb, brightness = get_light_state(stress_factor)
