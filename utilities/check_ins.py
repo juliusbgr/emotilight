@@ -57,27 +57,35 @@ def select_mood(normalized):
     else:
         return "Panic"
 
-async def main(color: tuple[int,int,int]):
-    govee = Govee(api_key=API_KEY)
-    devices = await govee.get_devices()
-    if not devices:
-        print(" No Govee device found.")
-        return
-    device = devices[0]
-    print(f" Controlling device: {device.device_name} ({device.device})")
+# Temporarily commented out the async Govee control code. We do not need it here
 
-    # Turn on and set color
-    await govee.turn_on(device)
-    await govee.set_color(device, color)
-    print(f" Light set to RGB{color}")
+# async def main(color: tuple[int,int,int]):
+#     govee = Govee(api_key=API_KEY)
+#     devices = await govee.get_devices()
+#     if not devices:
+#         print(" No Govee device found.")
+#         return
+#     device = devices[0]
+#     print(f" Controlling device: {device.device_name} ({device.device})")
 
-if __name__ == "__main__":
+#     # Turn on and set color
+#     await govee.turn_on(device)
+#     await govee.set_color(device, color)
+#     print(f" Light set to RGB{color}")
+
+def main():
     print("\n Mood Check-In → Govee Light Test\n")
     scores = get_user_scores()
+    print()
     normalized = compute_normalized_score(scores)
     mood = select_mood(normalized)
     print(f"\n Selected Mood: {mood}")
     
-    color = COLOR_MAP[mood]
+    # color = COLOR_MAP[mood] -- comment out
     # Run the async Govee call
-    asyncio.run(main(color))
+    # asyncio.run(main(color)) -- comment out
+    
+    return normalized # stress score to be used in the final algorithm
+
+if __name__ == "__main__":
+    main()
