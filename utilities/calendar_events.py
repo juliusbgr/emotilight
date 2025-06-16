@@ -1,4 +1,5 @@
-
+from dateutil import parser
+import pandas as pd
 
 mock_events = [
     {
@@ -34,8 +35,8 @@ mock_events = [
     {
         "summary": "Call with Professor",
         "description": "Teams link inside",
-        "start": {"dateTime": "2025-06-11T14:00:00+02:00c"},
-        "end": {"dateTime": "2025-06-11T15:00:00+02:00"}
+        "start": {"dateTime": "2025-06-16T17:00:00+02:00"},
+        "end": {"dateTime": "2025-06-16T18:30:00+02:00"}
     },
     {
         "summary": "Creative Time",
@@ -86,33 +87,33 @@ def classify_event(summary):
     return "other"
 
 
-category_to_lighting = {
-    "deep work": {
-        "color": "#FF0000",   # Red
-        "lux": 700            # High intensity to support focus
-    },
-    "work": {
-        "color": "#0000FF",   # Blue
-        "lux": 400            # Standard office brightness
-    },
-    "relax": {
-        "color": "#008000",   # Green
-        "lux": 200            # Calming light level
-    },
-    "social": {
-        "color": "#FFFF00",   # Yellow
-        "lux": 225            # Bright, inviting
-    },
-    "health": {
-        "color": "#FFA500",   # Orange
-        "lux": 200            # Warm and energizing
-    }
+# Stress levels mapping
+stress_mapping = {
+    "work": 0.75,
+    "deep work": 0.55,
+    "health": 0.75,
+    "relax": 0.2,
+    "social": 0.2,
+    "creative": 0.3,
+    "other": 0.5
 }
 
 
+event_data = []
+
 for event in mock_events:
-    category = classify_event(event["summary"])
-    color = category_to_lighting.get(category, "#0000FF") # If category is unknown, change light color to blue
-    print(f"{event['summary']} → Category: {category}, Light Color: {color}")
+    summary = event["summary"]
+    start = parser.isoparse(event["start"]["dateTime"])
+    end = parser.isoparse(event["end"]["dateTime"])
+    event_type = classify_event(summary)
+    stress = stress_mapping.get(event_type, 0.5)
+    event_data.append({
+        "summary": summary,
+        "start": start,
+        "end": end,
+        "event_type": event_type,
+        "stress_level": stress
+    })
 
-
+df = pd.DataFrame(event_data)
+print(df)
