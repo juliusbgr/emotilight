@@ -31,9 +31,9 @@ def get_light_state(stress_factor):
     else:
         return "cool_rest", (180, 220, 255), 30    # cool light blue
 
-import check_ins
+import mood_check_ins
 import heart_rate
-import calendar_stress_score
+import calendar_events
 
 async def main():
     # load_dotenv()
@@ -42,7 +42,7 @@ async def main():
     #     print("API key missing.")
     #     return
 
-    mood_stress = check_ins.main()
+    mood_stress = mood_check_ins.calculate_survey_score()
     
     while True:
         user_time = input("Enter a time (hh:mm): ")
@@ -50,7 +50,7 @@ async def main():
             break
         print("Invalid format. Please enter time as hh:mm (e.g., 14:30).")
         
-    calendar_stress = calendar_stress_score.get_calendar_stress_score(user_time)
+    calendar_stress = calendar_events.get_calendar_stress_score(user_time)
     wearable_stress = heart_rate.get_wearable_stress_score(user_time)
 
     stress_factor = compute_stress_factor(calendar_stress, mood_stress, wearable_stress)

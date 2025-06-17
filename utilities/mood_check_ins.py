@@ -5,7 +5,7 @@ def calculate_survey_score():
         ("How much are you enjoying the present moment?", "Pos"),
         ("How energized or motivated are you feeling?", "Pos"),
         ("How much is your mind racing right now?", "Neg"),
-        ("On a scale of 1 to 10, how would you rate your current mood?", "Neg"),
+        ("How would you rate your current mood? With 1 is most positive and 10 is most negative", "Neg"),
         ("How calm and relaxed are you at this moment?", "Pos"),
     ]
     
@@ -34,9 +34,8 @@ def calculate_survey_score():
     
     total_score = sum(reversed_scores)
     normalized_score = total_score / 50  # Normalize to 0-1 range
-    print(f"Normalized Score: {normalized_score:.2f}")
+    print(f"Total Score {total_score:.2f} Normalized Score: {normalized_score:.2f}")
     
-    return total_score, normalized_score
+    return normalized_score
 
-# Run the survey
-total, normalized = calculate_survey_score()
+# Run the survey on final_alogorithm.py
