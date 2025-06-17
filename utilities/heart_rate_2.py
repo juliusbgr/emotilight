@@ -103,3 +103,5 @@ def get_wearable_stress_score(time):
     latest_row = filtered.iloc[-1]
     print(latest_row)
     return latest_row['stress_score_combined']
+
+get_wearable_stress_score('13:00')
