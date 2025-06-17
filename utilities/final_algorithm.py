@@ -33,6 +33,7 @@ def get_light_state(stress_factor):
 
 import check_ins
 import heart_rate
+import calendar_stress_score
 
 async def main():
     # load_dotenv()
@@ -49,7 +50,7 @@ async def main():
             break
         print("Invalid format. Please enter time as hh:mm (e.g., 14:30).")
         
-    calendar_stress = 0.8
+    calendar_stress = calendar_stress_score.get_calendar_stress_score(user_time)
     wearable_stress = heart_rate.get_wearable_stress_score(user_time)
 
     stress_factor = compute_stress_factor(calendar_stress, mood_stress, wearable_stress)
