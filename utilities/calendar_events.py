@@ -5,50 +5,50 @@ mock_events = [
     {
         "summary": "Team Meeting",
         "description": "Weekly sync via Zoom",
-        "start": {"dateTime": "2025-06-17T10:00:00+02:00"},
-        "end": {"dateTime": "2025-06-17T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T08:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T09:00:00+02:00"}
     }, 
     {
         "summary": "Lunch Break",
         "description": "",
-        "start": {"dateTime": "2025-06-17T12:30:00+02:00"},
-        "end": {"dateTime": "2025-06-17T13:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T10:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T11:00:00+02:00"}
     },
     {
         "summary": "Workout",
         "description": "Cardio session",
-        "start": {"dateTime": "2025-06-17T18:00:00+02:00"},
-        "end": {"dateTime": "2025-06-17T19:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T13:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T14:00:00+02:00"}
     },
     {
         "summary": "Google Meet: Project Update",
         "description": "meet.google.com/xyz",
-        "start": {"dateTime": "2025-06-17T20:00:00+02:00"},
-        "end": {"dateTime": "2025-06-17T21:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T14:30:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
     },
     {
         "summary": "Studying",
         "description": "Deep work — no meetings",
-        "start": {"dateTime": "2025-06-18T09:00:00+02:00"},
-        "end": {"dateTime": "2025-06-18T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T16:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T17:00:00+02:00"}
     },
     {
         "summary": "Call with Professor",
         "description": "Teams link inside",
-        "start": {"dateTime": "2025-06-18T13:00:00+02:00"},
-        "end": {"dateTime": "2025-06-18T14:30:00+02:00"}
+        "start": {"dateTime": "2025-06-17T18:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T19:00:00+02:00"}
     },
     {
         "summary": "Creative Time",
         "description": "Time reserved for personal work",
-        "start": {"dateTime": "2025-06-18T16:00:00+02:00"},
-        "end": {"dateTime": "2025-06-18T18:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T19:30:00+02:00"},
+        "end": {"dateTime": "2025-06-17T20:30:00+02:00"}
     },
     {
         "summary": "Virtual Coffee Chat",
         "description": "Casual Zoom session",
-        "start": {"dateTime": "2025-06-19T10:30:00+02:00"},
-        "end": {"dateTime": "2025-06-19T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T21:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T22:00:00+02:00"}
     }
 ]
 
