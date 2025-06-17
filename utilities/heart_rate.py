@@ -42,7 +42,7 @@ class HeartRateProcessor:
 
 def get_wearable_stress_score(time):
     processor = HeartRateProcessor(
-        csv_path=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_merged.csv'),
+        csv_path=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_2022484408_09April.csv'),
         user_id=2022484408
     )
 
@@ -61,6 +61,7 @@ def get_wearable_stress_score(time):
         return None
 
     latest_row = filtered.iloc[-1]
+    print(latest_row)
     return latest_row['stress_score']
     
     
