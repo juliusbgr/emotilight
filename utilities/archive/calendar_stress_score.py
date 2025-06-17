@@ -6,32 +6,32 @@ mock_events = [
     {
         "summary": "Team Meeting",
         "description": "Weekly sync via Zoom",
-        "start": {"dateTime": "2025-06-10T10:00:00+02:00"},
-        "end": {"dateTime": "2025-06-10T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T08:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T09:00:00+02:00"}
     }, 
     {
         "summary": "Lunch Break",
         "description": "",
-        "start": {"dateTime": "2025-06-10T12:30:00+02:00"},
-        "end": {"dateTime": "2025-06-10T13:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T10:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T11:00:00+02:00"}
     },
     {
         "summary": "Workout",
         "description": "Cardio session",
-        "start": {"dateTime": "2025-06-10T18:00:00+02:00"},
-        "end": {"dateTime": "2025-06-10T19:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T13:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T14:00:00+02:00"}
     },
     {
         "summary": "Google Meet: Project Update",
         "description": "meet.google.com/xyz",
-        "start": {"dateTime": "2025-06-10T20:00:00+02:00"},
-        "end": {"dateTime": "2025-06-10T21:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T14:30:00+02:00"},
+        "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
     },
     {
         "summary": "Studying",
         "description": "Deep work — no meetings",
-        "start": {"dateTime": "2025-06-11T09:00:00+02:00"},
-        "end": {"dateTime": "2025-06-11T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T16:00:00+02:00"},
+        "end": {"dateTime": "2025-06-17T17:00:00+02:00"}
     },
     {
         "summary": "Call with Professor",
@@ -42,14 +42,8 @@ mock_events = [
     {
         "summary": "Creative Time",
         "description": "Time reserved for personal work",
-        "start": {"dateTime": "2025-06-11T16:00:00+02:00"},
-        "end": {"dateTime": "2025-06-11T18:00:00+02:00"}
-    },
-    {
-        "summary": "Virtual Coffee Chat",
-        "description": "Casual Zoom session",
-        "start": {"dateTime": "2025-06-12T10:30:00+02:00"},
-        "end": {"dateTime": "2025-06-12T11:00:00+02:00"}
+        "start": {"dateTime": "2025-06-17T19:30:00+02:00"},
+        "end": {"dateTime": "2025-06-17T20:30:00+02:00"}
     }
 ]
 
@@ -99,6 +93,8 @@ stress_mapping = {
     "other": 0.5
 }
 
+def get_calendar_stress_score(time):
+    event_data = []
 
 def get_calendar_stress_score(time):
 
