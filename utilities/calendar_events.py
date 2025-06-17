@@ -1,5 +1,6 @@
 from dateutil import parser
 import pandas as pd
+from datetime import datetime
 
 mock_events = [
     {
@@ -92,22 +93,34 @@ stress_mapping = {
     "other": 0.5
 }
 
+def get_calendar_stress_score(time):
+    event_data = []
 
-event_data = []
+    for event in mock_events:
+        summary = event["summary"]
+        start = parser.isoparse(event["start"]["dateTime"])
+        end = parser.isoparse(event["end"]["dateTime"])
+        event_type = classify_event(summary)
+        stress = stress_mapping.get(event_type, None)
+        event_data.append({
+            "summary": summary,
+            "start": start,
+            "end": end,
+            "event_type": event_type,
+            "stress_level": stress
+        })
 
-for event in mock_events:
-    summary = event["summary"]
-    start = parser.isoparse(event["start"]["dateTime"])
-    end = parser.isoparse(event["end"]["dateTime"])
-    event_type = classify_event(summary)
-    stress = stress_mapping.get(event_type, None)
-    event_data.append({
-        "summary": summary,
-        "start": start,
-        "end": end,
-        "event_type": event_type,
-        "stress_level": stress
-    })
+    df = pd.DataFrame(event_data)
+    df['start_time'] = df['start'].dt.time
+    df['end_time'] = df['end'].dt.time
+    
+    input_time = datetime.strptime(time, "%H:%M").time()
+    matching = df[(df['start_time'] <= input_time) & (df['end_time'] > input_time)]
+    if matching.empty:
+        return None
 
-df = pd.DataFrame(event_data)
-print(df)
+    # Pick the most recently started one (latest start_time)
+    latest = matching.sort_values(by='start_time', ascending=False).iloc[0]
+    print(matching)
+
+    return latest['stress_level']
