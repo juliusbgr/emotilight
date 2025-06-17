@@ -21,10 +21,10 @@ mock_events = [
         "end": {"dateTime": "2025-06-17T14:00:00+02:00"}
     },
     {
-    "summary": "Google Meet: Project Update",
-    "description": "meet.google.com/xyz",
-    "start": {"dateTime": "2025-06-17T14:30:00+02:00"},
-    "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
+        "summary": "Google Meet: Project Update",
+        "description": "meet.google.com/xyz",
+        "start": {"dateTime": "2025-06-17T14:30:00+02:00"},
+        "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
     },
     {
         "summary": "Studying",
@@ -43,12 +43,6 @@ mock_events = [
         "description": "Time reserved for personal work",
         "start": {"dateTime": "2025-06-17T19:30:00+02:00"},
         "end": {"dateTime": "2025-06-17T20:30:00+02:00"}
-    },
-    {
-        "summary": "Virtual Coffee Chat",
-        "description": "Casual Zoom session",
-        "start": {"dateTime": "2025-06-17T21:00:00+02:00"},
-        "end": {"dateTime": "2025-06-17T22:00:00+02:00"}
     }
 ]
 
