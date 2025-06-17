@@ -1,4 +1,6 @@
 import pandas as pd
+import os
+from datetime import datetime
 
 class HeartRateProcessor:
     def __init__(self, csv_path_hr, csv_path_state, user_id):
@@ -18,6 +20,7 @@ class HeartRateProcessor:
         df = df.set_index('Time').resample('30min').mean().reset_index()
         df = df.rename(columns={'Value': 'avg_30_min'})
         df = df[['Time', 'avg_30_min']].dropna()
+        df['only_time'] = df['Time'].dt.time
         self.df_30min = df
 
     @staticmethod
@@ -75,18 +78,30 @@ class HeartRateProcessor:
         return self.df_30min
 
 # Main execution
-processor = HeartRateProcessor(
-    csv_path_hr='utilities/heart_rate_data/heartrate_seconds_merged.csv',
-    csv_path_state='utilities/heart_rate_data/heart_rate_states.csv',
-    user_id=2022484408
-)
+def get_wearable_stress_score(time):
+    processor = HeartRateProcessor(
+        csv_path_hr=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heartrate_seconds_2022484408_09April.csv'),
+        csv_path_state=os.path.join(os.path.dirname(__file__), 'heart_rate_data', 'heart_rate_states.csv'),
+        user_id=2022484408
+    )
 
-processor.load_data()
-processor.calculate_rolling_avg()
-processor.add_stress_score()
-processor.load_state_mapping()
-processor.merge_state_stress()
+    processor.load_data()
+    processor.calculate_rolling_avg()
+    processor.add_stress_score()
+    processor.load_state_mapping()
+    processor.merge_state_stress()
 
-df_result = processor.get_processed_df()
-print(df_result)
+    df_result = processor.get_processed_df().copy().sort_values(by='Time').reset_index(drop=True)
+    input_time = datetime.strptime(time, "%H:%M").time()
+    
+    # Filter rows ending at or before input time
+    filtered = df_result[df_result['only_time'] <= input_time]
 
+    if filtered.empty:
+        return None
+
+    latest_row = filtered.iloc[-1]
+    print(latest_row)
+    return latest_row['stress_score_combined']
+
+get_wearable_stress_score('13:00')
