@@ -21,10 +21,10 @@ mock_events = [
         "end": {"dateTime": "2025-06-17T14:00:00+02:00"}
     },
     {
-        "summary": "Google Meet: Project Update",
-        "description": "meet.google.com/xyz",
-        "start": {"dateTime": "2025-06-17T14:30:00:00+02:00"},
-        "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
+    "summary": "Google Meet: Project Update",
+    "description": "meet.google.com/xyz",
+    "start": {"dateTime": "2025-06-17T14:30:00+02:00"},
+    "end": {"dateTime": "2025-06-17T15:30:00+02:00"}
     },
     {
         "summary": "Studying",
@@ -106,7 +106,7 @@ for event in mock_events:
     start = parser.isoparse(event["start"]["dateTime"])
     end = parser.isoparse(event["end"]["dateTime"])
     event_type = classify_event(summary)
-    stress = stress_mapping.get(event_type, 0.5)
+    stress = stress_mapping.get(event_type, None)
     event_data.append({
         "summary": summary,
         "start": start,
