@@ -12,30 +12,24 @@ modes_data = [
         "Hex": "#AEDFF7",
         "HSBK": (200, 0.30, 0.70, 3000),
         "Transition (ms)": 3000,
-        "Use Case / Rationale": "Soft sky-blue for low-arousal relaxation.",
-        "Questions": "How much are you enjoying the present moment?"
     },
     {
         "Mode": "neutral",
         "Hex": "#FFF5B1",
         "HSBK": (55, 0.20, 0.80, 4000),
         "Transition (ms)": 1500,
-        "Use Case / Rationale": "Gentle yellow for general tasks—uplifting without overstimulation.",
-        "Questions": "How emotionally unsettled do you feel?"
     },
     {
         "Mode": "relax",
         "Hex": "#88E1A3",
         "HSBK": (140, 0.45, 0.60, 3500),
         "Transition (ms)": 2000,
-        "Use Case / Rationale": "Restorative green to shift toward parasympathetic relaxation after stress."
     },
     {
         "Mode": "deep_relax",
         "Hex": "#FFA07A",
         "HSBK": (17, 0.50, 0.50, 2700),
         "Transition (ms)": 1000,
-        "Use Case / Rationale": "Salmon-red pulsing to guide breathing and reduce acute stress."
     }
 ]
 
