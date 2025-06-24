@@ -45,12 +45,12 @@ class HeartRateProcessor:
         # Mapping for staates
         state_weights = {
             'Very calm': 0.0,
-            'Calm': 0.1,
-            'Normal': 0.3,
-            'Slightly active': 0.5,
-            'Active': 0.7,
-            'Very active': 0.9,
-            'Highly active': 1.0
+            'Calm': 0.0,
+            'Normal': 0.0,
+            'Slightly active': 0.1,
+            'Active': 0.2,
+            'Very active': 0.3,
+            'Highly active': 0.4
         }
 
         # Mapping sress score for each state
