@@ -5,7 +5,7 @@ def calculate_survey_score():
         ("How much are you enjoying the present moment?", "Pos"),
         ("How energized or motivated are you feeling?", "Pos"),
         ("How much is your mind racing right now?", "Neg"),
-        ("How would you rate your current mood? With 1 is most positive and 10 is most negative", "Neg"),
+        ("How would you rate your current mood? With 1 is most positive and 10 is most negative", "pos"),
         ("How calm and relaxed are you at this moment?", "Pos"),
     ]
     
