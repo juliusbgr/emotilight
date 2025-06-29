@@ -34,7 +34,7 @@ def calculate_survey_score():
         reversed_scores.append(reversed_score)
     
     total_score = sum(reversed_scores)
-    normalized_score = total_score / 50  # Normalize to 0-1 range
+    normalized_score = total_score / 60  # Normalize to 0-1 range
     print(f"Total Score {total_score:.2f} Normalized Score: {normalized_score:.2f}")
     
     return normalized_score
