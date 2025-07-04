@@ -37,24 +37,24 @@ class HeartRateProcessor:
 
     def load_state_mapping(self):
         # the file with states
-        df_state = pd.read_csv(self.csv_path_state)
-        df_state = df_state.rename(columns={'Heart Rate (bpm)': 'HeartRate', 'State': 'State'})
+        df_state = pd.read_csv(self.csv_path_state,parse_dates=['Time'])  
         
-    
-        
-        # Mapping for staates
+        # Mapping for states
         state_weights = {
-            'Very calm': 0.0,
-            'Calm': 0.0,
-            'Normal': 0.1,
-            'Slightly active': 0.1,
-            'Active': 0.2,
-            'Very active': 0.3,
-            'Highly active': 0.4
+            'Still': 0.5,
+            'Low motion': 0.25,
+            'Normal': 0.15,
+            'High motion': 0.1,
+            'Hyperactive': 0
         }
 
         # Mapping sress score for each state
         df_state['stress_score_state'] = df_state['State'].map(state_weights)
+        df_state = df_state.set_index('Time').resample('30min').agg({
+            'State': lambda x: x.mode().iloc[0] if not x.mode().empty else None,
+            'stress_score_state': 'mean'
+            }).reset_index()
+        
         self.state_mapping = df_state
 
     def merge_state_stress(self):
@@ -63,16 +63,13 @@ class HeartRateProcessor:
 
         # Merge with maapping
         self.df_30min = self.df_30min.merge(
-            self.state_mapping[['HeartRate', 'stress_score_state','State']],
-            left_on='avg_hr_rounded',
-            right_on='HeartRate',
+            self.state_mapping,
+            on='Time',
             how='left'
         )
 
         # combined score
         self.df_30min['stress_score_combined'] = self.df_30min[['stress_score_hr', 'stress_score_state']].mean(axis=1)
-
-        self.df_30min = self.df_30min.drop(columns=['avg_hr_rounded', 'HeartRate'])
 
     def get_processed_df(self):
         return self.df_30min
@@ -106,7 +103,7 @@ def get_wearable_stress_score(time):
 
 if __name__ == "__main__":
     # Example usage
-    time_input = input("Enter a time (hh:mm): ")
+    time_input = input("Time (hh:mm): ")
     stress_score = get_wearable_stress_score(time_input)
     if stress_score is not None:
         print(f"Stress score at {time_input}: {stress_score}")

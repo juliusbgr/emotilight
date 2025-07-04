@@ -1,112 +1,6464 @@
-Heart Rate (bpm),State
-40,Very calm
-41,Very calm
-42,Very calm
-43,Very calm
-44,Very calm
-45,Very calm
-46,Very calm
-47,Very calm
-48,Very calm
-49,Very calm
-50,Very calm
-51,Calm
-52,Calm
-53,Calm
-54,Calm
-55,Calm
-56,Calm
-57,Calm
-58,Calm
-59,Calm
-60,Calm
-61,Normal
-62,Normal
-63,Normal
-64,Normal
-65,Normal
-66,Normal
-67,Normal
-68,Normal
-69,Normal
-70,Normal
-71,Normal
-72,Normal
-73,Normal
-74,Normal
-75,Normal
-76,Normal
-77,Normal
-78,Normal
-79,Normal
-80,Normal
-81,Normal
-82,Normal
-83,Normal
-84,Normal
-85,Normal
-86,Normal
-87,Normal
-88,Normal
-89,Normal
-90,Normal
-91,Slightly active
-92,Slightly active
-93,Slightly active
-94,Slightly active
-95,Slightly active
-96,Slightly active
-97,Slightly active
-98,Slightly active
-99,Slightly active
-100,Slightly active
-101,Active
-102,Active
-103,Active
-104,Active
-105,Active
-106,Active
-107,Active
-108,Active
-109,Active
-110,Active
-111,Active
-112,Active
-113,Active
-114,Active
-115,Active
-116,Active
-117,Active
-118,Active
-119,Active
-120,Active
-121,Very active
-122,Very active
-123,Very active
-124,Very active
-125,Very active
-126,Very active
-127,Very active
-128,Very active
-129,Very active
-130,Very active
-131,Very active
-132,Very active
-133,Very active
-134,Very active
-135,Very active
-136,Very active
-137,Very active
-138,Very active
-139,Very active
-140,Very active
-141,Highly active
-142,Highly active
-143,Highly active
-144,Highly active
-145,Highly active
-146,Highly active
-147,Highly active
-148,Highly active
-149,Highly active
-150,Highly active
+State,Time
+Still,6/17/2025 5:14
+Still,6/17/2025 5:14
+Still,6/17/2025 5:14
+Still,6/17/2025 5:14
+Still,6/17/2025 5:14
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:15
+Still,6/17/2025 5:16
+Still,6/17/2025 5:16
+Still,6/17/2025 5:16
+Still,6/17/2025 5:16
+Still,6/17/2025 5:16
+Still,6/17/2025 5:17
+Still,6/17/2025 5:17
+Still,6/17/2025 5:17
+Still,6/17/2025 5:17
+Still,6/17/2025 5:17
+Still,6/17/2025 5:17
+Still,6/17/2025 5:18
+Still,6/17/2025 5:18
+Still,6/17/2025 5:18
+Still,6/17/2025 5:18
+Still,6/17/2025 5:18
+Still,6/17/2025 5:18
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:19
+Still,6/17/2025 5:20
+Still,6/17/2025 5:20
+Still,6/17/2025 5:20
+Still,6/17/2025 5:20
+Still,6/17/2025 5:20
+Still,6/17/2025 5:20
+Still,6/17/2025 5:21
+Still,6/17/2025 5:21
+Still,6/17/2025 5:21
+Still,6/17/2025 5:21
+Still,6/17/2025 5:21
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:22
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:23
+Still,6/17/2025 5:24
+Still,6/17/2025 5:24
+Still,6/17/2025 5:24
+Still,6/17/2025 5:24
+Still,6/17/2025 5:24
+Still,6/17/2025 5:24
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:25
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:26
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:27
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:28
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:29
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:30
+Still,6/17/2025 5:31
+Still,6/17/2025 5:31
+Still,6/17/2025 5:31
+Still,6/17/2025 5:31
+Still,6/17/2025 5:31
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:32
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:33
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:34
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:35
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:36
+Still,6/17/2025 5:37
+Still,6/17/2025 5:37
+Still,6/17/2025 5:37
+Still,6/17/2025 5:37
+Still,6/17/2025 5:37
+Still,6/17/2025 5:37
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:38
+Still,6/17/2025 5:39
+Still,6/17/2025 5:39
+Still,6/17/2025 5:39
+Still,6/17/2025 5:39
+Still,6/17/2025 5:39
+Still,6/17/2025 5:40
+Still,6/17/2025 5:40
+Still,6/17/2025 5:40
+Still,6/17/2025 5:40
+Still,6/17/2025 5:40
+Still,6/17/2025 5:41
+Still,6/17/2025 5:41
+Still,6/17/2025 5:41
+Still,6/17/2025 5:41
+Still,6/17/2025 5:41
+Still,6/17/2025 5:41
+Still,6/17/2025 5:42
+Still,6/17/2025 5:42
+Still,6/17/2025 5:42
+Still,6/17/2025 5:42
+Still,6/17/2025 5:42
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:43
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:44
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:45
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:46
+Still,6/17/2025 5:47
+Still,6/17/2025 5:47
+Still,6/17/2025 5:47
+Still,6/17/2025 5:47
+Still,6/17/2025 5:47
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:48
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:49
+Still,6/17/2025 5:50
+Still,6/17/2025 5:50
+Still,6/17/2025 5:50
+Still,6/17/2025 5:50
+Still,6/17/2025 5:50
+Still,6/17/2025 5:50
+Still,6/17/2025 5:51
+Still,6/17/2025 5:51
+Still,6/17/2025 5:51
+Still,6/17/2025 5:51
+Still,6/17/2025 5:51
+Still,6/17/2025 5:52
+Still,6/17/2025 5:52
+Still,6/17/2025 5:52
+Still,6/17/2025 5:52
+Still,6/17/2025 5:52
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:53
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:54
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:55
+Still,6/17/2025 5:56
+Still,6/17/2025 5:56
+Still,6/17/2025 5:56
+Still,6/17/2025 5:56
+Still,6/17/2025 5:56
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:57
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:58
+Still,6/17/2025 5:59
+Still,6/17/2025 5:59
+Still,6/17/2025 5:59
+Still,6/17/2025 5:59
+Still,6/17/2025 5:59
+Still,6/17/2025 5:59
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:00
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:01
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:02
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:03
+Low motion,6/17/2025 6:04
+Low motion,6/17/2025 6:04
+Low motion,6/17/2025 6:04
+Low motion,6/17/2025 6:04
+Low motion,6/17/2025 6:04
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:05
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:06
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:07
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:08
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:09
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:10
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:11
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:12
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:13
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:14
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:15
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:16
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:17
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:18
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:19
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:20
+Low motion,6/17/2025 6:21
+Low motion,6/17/2025 6:21
+Low motion,6/17/2025 6:21
+Low motion,6/17/2025 6:21
+Low motion,6/17/2025 6:21
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:22
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:23
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:24
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:25
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:26
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:27
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:28
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:29
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:30
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:31
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:32
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:33
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:34
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:35
+Low motion,6/17/2025 6:36
+Low motion,6/17/2025 6:36
+Low motion,6/17/2025 6:36
+Low motion,6/17/2025 6:36
+Low motion,6/17/2025 6:36
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:37
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:38
+Low motion,6/17/2025 6:39
+Low motion,6/17/2025 6:39
+Low motion,6/17/2025 6:39
+Low motion,6/17/2025 6:39
+Low motion,6/17/2025 6:39
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:40
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:41
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:42
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:43
+Low motion,6/17/2025 6:44
+Low motion,6/17/2025 6:44
+Low motion,6/17/2025 6:44
+Low motion,6/17/2025 6:44
+Low motion,6/17/2025 6:44
+Low motion,6/17/2025 6:45
+Low motion,6/17/2025 6:45
+Low motion,6/17/2025 6:45
+Low motion,6/17/2025 6:45
+Low motion,6/17/2025 6:45
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:46
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:47
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:48
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:49
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:50
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:51
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:52
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:53
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:54
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:55
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:56
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:57
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:58
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 6:59
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:00
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:01
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:02
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:03
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:04
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:05
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:06
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:07
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:08
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:09
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:10
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:11
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:12
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:13
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:14
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:15
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:16
+Low motion,6/17/2025 7:17
+Low motion,6/17/2025 7:17
+Low motion,6/17/2025 7:17
+Low motion,6/17/2025 7:17
+Low motion,6/17/2025 7:17
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:18
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:19
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:20
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:21
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:22
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:23
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:24
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:25
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:26
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:27
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:28
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Low motion,6/17/2025 7:29
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:30
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:31
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:32
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:33
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:34
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:35
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:36
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:37
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:38
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:39
+Hyperactive,6/17/2025 7:40
+Hyperactive,6/17/2025 7:40
+Hyperactive,6/17/2025 7:40
+Hyperactive,6/17/2025 7:40
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:41
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:42
+Hyperactive,6/17/2025 7:43
+Hyperactive,6/17/2025 7:43
+Hyperactive,6/17/2025 7:43
+Hyperactive,6/17/2025 7:43
+Hyperactive,6/17/2025 7:43
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:44
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:45
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:46
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:47
+Hyperactive,6/17/2025 7:48
+Hyperactive,6/17/2025 7:48
+Hyperactive,6/17/2025 7:48
+Hyperactive,6/17/2025 7:48
+Hyperactive,6/17/2025 7:48
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:49
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:50
+Hyperactive,6/17/2025 7:51
+Hyperactive,6/17/2025 7:51
+Hyperactive,6/17/2025 7:51
+Hyperactive,6/17/2025 7:51
+Hyperactive,6/17/2025 7:51
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:52
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:53
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:54
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:55
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:56
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:57
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:58
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Hyperactive,6/17/2025 7:59
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:00
+Still,6/17/2025 8:01
+Still,6/17/2025 8:01
+Still,6/17/2025 8:01
+Still,6/17/2025 8:01
+Still,6/17/2025 8:01
+Still,6/17/2025 8:01
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:02
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:03
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:04
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:05
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:06
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:07
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:08
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:09
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:10
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:11
+Still,6/17/2025 8:12
+Still,6/17/2025 8:12
+Still,6/17/2025 8:12
+Still,6/17/2025 8:12
+Still,6/17/2025 8:12
+Still,6/17/2025 8:13
+Still,6/17/2025 8:13
+Still,6/17/2025 8:13
+Still,6/17/2025 8:13
+Still,6/17/2025 8:13
+Still,6/17/2025 8:13
+Still,6/17/2025 8:14
+Still,6/17/2025 8:14
+Still,6/17/2025 8:14
+Still,6/17/2025 8:14
+Still,6/17/2025 8:14
+Still,6/17/2025 8:14
+Still,6/17/2025 8:15
+Still,6/17/2025 8:15
+Still,6/17/2025 8:15
+Still,6/17/2025 8:15
+Still,6/17/2025 8:15
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:16
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:17
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:18
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:19
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:20
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:21
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:22
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:23
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:24
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:25
+Still,6/17/2025 8:26
+Still,6/17/2025 8:26
+Still,6/17/2025 8:26
+Still,6/17/2025 8:26
+Still,6/17/2025 8:26
+Still,6/17/2025 8:26
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:27
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:28
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:29
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:30
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:31
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:32
+Still,6/17/2025 8:33
+Still,6/17/2025 8:33
+Still,6/17/2025 8:33
+Still,6/17/2025 8:33
+Still,6/17/2025 8:33
+Still,6/17/2025 8:33
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:34
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:35
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:36
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:37
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:38
+Still,6/17/2025 8:39
+Still,6/17/2025 8:39
+Still,6/17/2025 8:39
+Still,6/17/2025 8:39
+Still,6/17/2025 8:39
+Still,6/17/2025 8:39
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:40
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:41
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:42
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:43
+Still,6/17/2025 8:44
+Still,6/17/2025 8:44
+Still,6/17/2025 8:44
+Still,6/17/2025 8:44
+Still,6/17/2025 8:44
+Still,6/17/2025 8:44
+Still,6/17/2025 8:45
+Still,6/17/2025 8:45
+Still,6/17/2025 8:45
+Still,6/17/2025 8:45
+Still,6/17/2025 8:45
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:46
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:47
+Still,6/17/2025 8:48
+Still,6/17/2025 8:48
+Still,6/17/2025 8:48
+Still,6/17/2025 8:48
+Still,6/17/2025 8:48
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:49
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:50
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:51
+Still,6/17/2025 8:52
+Still,6/17/2025 8:52
+Still,6/17/2025 8:52
+Still,6/17/2025 8:52
+Still,6/17/2025 8:52
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:53
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:54
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:55
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:56
+Still,6/17/2025 8:57
+Still,6/17/2025 8:57
+Still,6/17/2025 8:57
+Still,6/17/2025 8:57
+Still,6/17/2025 8:57
+Still,6/17/2025 8:57
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:58
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Still,6/17/2025 8:59
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:00
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:01
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:02
+Normal,6/17/2025 9:03
+Normal,6/17/2025 9:03
+Normal,6/17/2025 9:03
+Normal,6/17/2025 9:03
+Normal,6/17/2025 9:03
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:04
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:05
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:06
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:07
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:08
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:09
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:10
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:11
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:12
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:13
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:14
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:15
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:16
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:17
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:18
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:19
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:20
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:21
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:22
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:23
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:24
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:25
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:26
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:27
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:28
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:29
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:30
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:31
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:32
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:33
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:34
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:35
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:36
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:37
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:38
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:39
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:40
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:41
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:42
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:43
+Normal,6/17/2025 9:44
+Normal,6/17/2025 9:44
+Normal,6/17/2025 9:44
+Normal,6/17/2025 9:44
+Normal,6/17/2025 9:48
+Normal,6/17/2025 9:48
+Normal,6/17/2025 9:54
+Normal,6/17/2025 9:54
+Normal,6/17/2025 9:54
+Normal,6/17/2025 9:54
+Normal,6/17/2025 9:54
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:55
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:56
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:57
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:58
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Normal,6/17/2025 9:59
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:00
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:01
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:02
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:03
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:04
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:05
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:06
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:07
+Low motion,6/17/2025 10:08
+Low motion,6/17/2025 10:08
+Low motion,6/17/2025 10:08
+Low motion,6/17/2025 10:08
+Low motion,6/17/2025 10:08
+Low motion,6/17/2025 10:09
+Low motion,6/17/2025 10:09
+Low motion,6/17/2025 10:09
+Low motion,6/17/2025 10:09
+Low motion,6/17/2025 10:09
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:10
+Low motion,6/17/2025 10:11
+Low motion,6/17/2025 10:11
+Low motion,6/17/2025 10:11
+Low motion,6/17/2025 10:11
+Low motion,6/17/2025 10:11
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:12
+Low motion,6/17/2025 10:13
+Low motion,6/17/2025 10:13
+Low motion,6/17/2025 10:13
+Low motion,6/17/2025 10:13
+Low motion,6/17/2025 10:13
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:14
+Low motion,6/17/2025 10:15
+Low motion,6/17/2025 10:15
+Low motion,6/17/2025 10:15
+Low motion,6/17/2025 10:15
+Low motion,6/17/2025 10:15
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:16
+Low motion,6/17/2025 10:17
+Low motion,6/17/2025 10:17
+Low motion,6/17/2025 10:17
+Low motion,6/17/2025 10:17
+Low motion,6/17/2025 10:17
+Low motion,6/17/2025 10:18
+Low motion,6/17/2025 10:18
+Low motion,6/17/2025 10:18
+Low motion,6/17/2025 10:18
+Low motion,6/17/2025 10:18
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:19
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:20
+Low motion,6/17/2025 10:21
+Low motion,6/17/2025 10:21
+Low motion,6/17/2025 10:21
+Low motion,6/17/2025 10:21
+Low motion,6/17/2025 10:22
+Low motion,6/17/2025 10:22
+Low motion,6/17/2025 10:22
+Low motion,6/17/2025 10:22
+Low motion,6/17/2025 10:23
+Low motion,6/17/2025 10:23
+Low motion,6/17/2025 10:23
+Low motion,6/17/2025 10:23
+Low motion,6/17/2025 10:23
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:24
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:25
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:26
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:27
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:28
+Low motion,6/17/2025 10:29
+Low motion,6/17/2025 10:29
+Low motion,6/17/2025 10:29
+Low motion,6/17/2025 10:29
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:30
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:31
+Low motion,6/17/2025 10:32
+Low motion,6/17/2025 10:32
+Low motion,6/17/2025 10:32
+Low motion,6/17/2025 10:32
+Low motion,6/17/2025 10:32
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:33
+Low motion,6/17/2025 10:34
+Low motion,6/17/2025 10:34
+Low motion,6/17/2025 10:34
+Low motion,6/17/2025 10:34
+Low motion,6/17/2025 10:34
+Low motion,6/17/2025 10:35
+Low motion,6/17/2025 10:35
+Low motion,6/17/2025 10:35
+Low motion,6/17/2025 10:35
+Low motion,6/17/2025 10:35
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:36
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:37
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:38
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:39
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:40
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:41
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:42
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:43
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:44
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:45
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:46
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:47
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:48
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:49
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:50
+Low motion,6/17/2025 10:51
+Low motion,6/17/2025 10:51
+Low motion,6/17/2025 10:51
+Low motion,6/17/2025 10:51
+Low motion,6/17/2025 10:52
+Low motion,6/17/2025 10:52
+Low motion,6/17/2025 10:52
+Low motion,6/17/2025 10:52
+Low motion,6/17/2025 10:52
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:53
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:54
+Low motion,6/17/2025 10:55
+Low motion,6/17/2025 10:55
+Low motion,6/17/2025 10:55
+Low motion,6/17/2025 10:55
+Low motion,6/17/2025 10:55
+Low motion,6/17/2025 10:56
+Low motion,6/17/2025 10:56
+Low motion,6/17/2025 10:56
+Low motion,6/17/2025 10:56
+Low motion,6/17/2025 10:56
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:57
+Low motion,6/17/2025 10:58
+Low motion,6/17/2025 10:58
+Low motion,6/17/2025 10:58
+Low motion,6/17/2025 10:58
+Low motion,6/17/2025 10:58
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Low motion,6/17/2025 10:59
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:00
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:01
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:02
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:03
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:04
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:05
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:06
+Still,6/17/2025 11:07
+Still,6/17/2025 11:07
+Still,6/17/2025 11:07
+Still,6/17/2025 11:07
+Still,6/17/2025 11:07
+Still,6/17/2025 11:08
+Still,6/17/2025 11:08
+Still,6/17/2025 11:08
+Still,6/17/2025 11:08
+Still,6/17/2025 11:08
+Still,6/17/2025 11:08
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:09
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:10
+Still,6/17/2025 11:11
+Still,6/17/2025 11:11
+Still,6/17/2025 11:11
+Still,6/17/2025 11:11
+Still,6/17/2025 11:12
+Still,6/17/2025 11:12
+Still,6/17/2025 11:12
+Still,6/17/2025 11:12
+Still,6/17/2025 11:12
+Still,6/17/2025 11:12
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:13
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:14
+Still,6/17/2025 11:15
+Still,6/17/2025 11:15
+Still,6/17/2025 11:15
+Still,6/17/2025 11:15
+Still,6/17/2025 11:15
+Still,6/17/2025 11:15
+Still,6/17/2025 11:16
+Still,6/17/2025 11:16
+Still,6/17/2025 11:16
+Still,6/17/2025 11:16
+Still,6/17/2025 11:16
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:17
+Still,6/17/2025 11:18
+Still,6/17/2025 11:18
+Still,6/17/2025 11:18
+Still,6/17/2025 11:18
+Still,6/17/2025 11:19
+Still,6/17/2025 11:19
+Still,6/17/2025 11:19
+Still,6/17/2025 11:19
+Still,6/17/2025 11:19
+Still,6/17/2025 11:20
+Still,6/17/2025 11:20
+Still,6/17/2025 11:20
+Still,6/17/2025 11:20
+Still,6/17/2025 11:20
+Still,6/17/2025 11:20
+Still,6/17/2025 11:21
+Still,6/17/2025 11:21
+Still,6/17/2025 11:21
+Still,6/17/2025 11:21
+Still,6/17/2025 11:21
+Still,6/17/2025 11:21
+Still,6/17/2025 11:22
+Still,6/17/2025 11:22
+Still,6/17/2025 11:22
+Still,6/17/2025 11:22
+Still,6/17/2025 11:22
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:23
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:24
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:25
+Still,6/17/2025 11:26
+Still,6/17/2025 11:26
+Still,6/17/2025 11:26
+Still,6/17/2025 11:26
+Still,6/17/2025 11:26
+Still,6/17/2025 11:26
+Still,6/17/2025 11:27
+Still,6/17/2025 11:27
+Still,6/17/2025 11:27
+Still,6/17/2025 11:27
+Still,6/17/2025 11:27
+Still,6/17/2025 11:27
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:28
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:29
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:30
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:31
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:32
+Still,6/17/2025 11:33
+Still,6/17/2025 11:33
+Still,6/17/2025 11:33
+Still,6/17/2025 11:33
+Still,6/17/2025 11:33
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:34
+Still,6/17/2025 11:35
+Still,6/17/2025 11:35
+Still,6/17/2025 11:35
+Still,6/17/2025 11:35
+Still,6/17/2025 11:35
+Still,6/17/2025 11:35
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:36
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:37
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:38
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:39
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:40
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:41
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:42
+Still,6/17/2025 11:43
+Still,6/17/2025 11:43
+Still,6/17/2025 11:43
+Still,6/17/2025 11:43
+Still,6/17/2025 11:43
+Still,6/17/2025 11:43
+Still,6/17/2025 11:44
+Still,6/17/2025 11:44
+Still,6/17/2025 11:44
+Still,6/17/2025 11:44
+Still,6/17/2025 11:44
+Still,6/17/2025 11:45
+Still,6/17/2025 11:45
+Still,6/17/2025 11:45
+Still,6/17/2025 11:45
+Still,6/17/2025 11:45
+Still,6/17/2025 11:45
+Still,6/17/2025 11:46
+Still,6/17/2025 11:46
+Still,6/17/2025 11:46
+Still,6/17/2025 11:46
+Still,6/17/2025 11:46
+Still,6/17/2025 11:46
+Still,6/17/2025 11:47
+Still,6/17/2025 11:47
+Still,6/17/2025 11:47
+Still,6/17/2025 11:47
+Still,6/17/2025 11:47
+Still,6/17/2025 11:47
+Still,6/17/2025 11:48
+Still,6/17/2025 11:48
+Still,6/17/2025 11:48
+Still,6/17/2025 11:48
+Still,6/17/2025 11:48
+Still,6/17/2025 11:48
+Still,6/17/2025 11:49
+Still,6/17/2025 11:49
+Still,6/17/2025 11:49
+Still,6/17/2025 11:49
+Still,6/17/2025 11:49
+Still,6/17/2025 11:50
+Still,6/17/2025 11:50
+Still,6/17/2025 11:50
+Still,6/17/2025 11:50
+Still,6/17/2025 11:50
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:51
+Still,6/17/2025 11:52
+Still,6/17/2025 11:52
+Still,6/17/2025 11:52
+Still,6/17/2025 11:52
+Still,6/17/2025 11:52
+Still,6/17/2025 11:52
+Still,6/17/2025 11:53
+Still,6/17/2025 11:53
+Still,6/17/2025 11:53
+Still,6/17/2025 11:53
+Still,6/17/2025 11:53
+Still,6/17/2025 11:54
+Still,6/17/2025 11:54
+Still,6/17/2025 11:54
+Still,6/17/2025 11:54
+Still,6/17/2025 11:55
+Still,6/17/2025 11:55
+Still,6/17/2025 11:55
+Still,6/17/2025 11:55
+Still,6/17/2025 11:55
+Still,6/17/2025 11:55
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:56
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:57
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:58
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Still,6/17/2025 11:59
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:00
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:01
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:02
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:03
+Low motion,6/17/2025 12:04
+Low motion,6/17/2025 12:04
+Low motion,6/17/2025 12:04
+Low motion,6/17/2025 12:04
+Low motion,6/17/2025 12:05
+Low motion,6/17/2025 12:05
+Low motion,6/17/2025 12:05
+Low motion,6/17/2025 12:05
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:06
+Low motion,6/17/2025 12:07
+Low motion,6/17/2025 12:07
+Low motion,6/17/2025 12:07
+Low motion,6/17/2025 12:07
+Low motion,6/17/2025 12:07
+Low motion,6/17/2025 12:08
+Low motion,6/17/2025 12:08
+Low motion,6/17/2025 12:08
+Low motion,6/17/2025 12:08
+Low motion,6/17/2025 12:08
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:09
+Low motion,6/17/2025 12:10
+Low motion,6/17/2025 12:10
+Low motion,6/17/2025 12:10
+Low motion,6/17/2025 12:10
+Low motion,6/17/2025 12:10
+Low motion,6/17/2025 12:11
+Low motion,6/17/2025 12:11
+Low motion,6/17/2025 12:11
+Low motion,6/17/2025 12:11
+Low motion,6/17/2025 12:12
+Low motion,6/17/2025 12:12
+Low motion,6/17/2025 12:12
+Low motion,6/17/2025 12:12
+Low motion,6/17/2025 12:12
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:13
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:14
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:15
+Low motion,6/17/2025 12:16
+Low motion,6/17/2025 12:16
+Low motion,6/17/2025 12:16
+Low motion,6/17/2025 12:16
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:17
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:18
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:19
+Low motion,6/17/2025 12:20
+Low motion,6/17/2025 12:20
+Low motion,6/17/2025 12:20
+Low motion,6/17/2025 12:20
+Low motion,6/17/2025 12:21
+Low motion,6/17/2025 12:21
+Low motion,6/17/2025 12:21
+Low motion,6/17/2025 12:21
+Low motion,6/17/2025 12:21
+Low motion,6/17/2025 12:22
+Low motion,6/17/2025 12:22
+Low motion,6/17/2025 12:22
+Low motion,6/17/2025 12:22
+Low motion,6/17/2025 12:23
+Low motion,6/17/2025 12:23
+Low motion,6/17/2025 12:23
+Low motion,6/17/2025 12:23
+Low motion,6/17/2025 12:24
+Low motion,6/17/2025 12:24
+Low motion,6/17/2025 12:24
+Low motion,6/17/2025 12:24
+Low motion,6/17/2025 12:24
+Low motion,6/17/2025 12:25
+Low motion,6/17/2025 12:25
+Low motion,6/17/2025 12:25
+Low motion,6/17/2025 12:25
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:26
+Low motion,6/17/2025 12:27
+Low motion,6/17/2025 12:27
+Low motion,6/17/2025 12:27
+Low motion,6/17/2025 12:27
+Low motion,6/17/2025 12:27
+Low motion,6/17/2025 12:28
+Low motion,6/17/2025 12:28
+Low motion,6/17/2025 12:28
+Low motion,6/17/2025 12:28
+Low motion,6/17/2025 12:28
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:29
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:30
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:31
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:32
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:33
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:34
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:35
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:36
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:37
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:38
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:39
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:40
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:41
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:42
+Low motion,6/17/2025 12:43
+Low motion,6/17/2025 12:43
+Low motion,6/17/2025 12:43
+Low motion,6/17/2025 12:43
+Low motion,6/17/2025 12:43
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:44
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:45
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:46
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:47
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:48
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:49
+Low motion,6/17/2025 12:50
+Low motion,6/17/2025 12:50
+Low motion,6/17/2025 12:50
+Low motion,6/17/2025 12:50
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:51
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:52
+Low motion,6/17/2025 12:53
+Low motion,6/17/2025 12:53
+Low motion,6/17/2025 12:53
+Low motion,6/17/2025 12:53
+Low motion,6/17/2025 12:53
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:54
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:55
+Low motion,6/17/2025 12:56
+Low motion,6/17/2025 12:56
+Low motion,6/17/2025 12:56
+Low motion,6/17/2025 12:56
+Low motion,6/17/2025 12:56
+Low motion,6/17/2025 12:57
+Low motion,6/17/2025 12:57
+Low motion,6/17/2025 12:57
+Low motion,6/17/2025 12:57
+Low motion,6/17/2025 12:57
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:58
+Low motion,6/17/2025 12:59
+Low motion,6/17/2025 12:59
+Low motion,6/17/2025 12:59
+Low motion,6/17/2025 12:59
+Low motion,6/17/2025 12:59
+Low motion,6/17/2025 12:59
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:00
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:01
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:02
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:03
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:04
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:05
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:06
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:07
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:08
+Hyperactive,6/17/2025 13:09
+Hyperactive,6/17/2025 13:09
+Hyperactive,6/17/2025 13:09
+Hyperactive,6/17/2025 13:09
+Hyperactive,6/17/2025 13:09
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:10
+Hyperactive,6/17/2025 13:11
+Hyperactive,6/17/2025 13:11
+Hyperactive,6/17/2025 13:11
+Hyperactive,6/17/2025 13:11
+Hyperactive,6/17/2025 13:11
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:12
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:13
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:14
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:15
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:16
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:17
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:18
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:19
+Hyperactive,6/17/2025 13:20
+Hyperactive,6/17/2025 13:20
+Hyperactive,6/17/2025 13:20
+Hyperactive,6/17/2025 13:20
+Hyperactive,6/17/2025 13:20
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:21
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:22
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:23
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:24
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:25
+Hyperactive,6/17/2025 13:26
+Hyperactive,6/17/2025 13:26
+Hyperactive,6/17/2025 13:26
+Hyperactive,6/17/2025 13:26
+Hyperactive,6/17/2025 13:26
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:27
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:28
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:29
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:30
+Hyperactive,6/17/2025 13:31
+Hyperactive,6/17/2025 13:31
+Hyperactive,6/17/2025 13:31
+Hyperactive,6/17/2025 13:31
+Hyperactive,6/17/2025 13:31
+Hyperactive,6/17/2025 13:32
+Hyperactive,6/17/2025 13:32
+Hyperactive,6/17/2025 13:32
+Hyperactive,6/17/2025 13:32
+Hyperactive,6/17/2025 13:32
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:33
+Hyperactive,6/17/2025 13:34
+Hyperactive,6/17/2025 13:34
+Hyperactive,6/17/2025 13:34
+Hyperactive,6/17/2025 13:34
+Hyperactive,6/17/2025 13:34
+Hyperactive,6/17/2025 13:35
+Hyperactive,6/17/2025 13:35
+Hyperactive,6/17/2025 13:35
+Hyperactive,6/17/2025 13:35
+Hyperactive,6/17/2025 13:35
+Hyperactive,6/17/2025 13:36
+Hyperactive,6/17/2025 13:36
+Hyperactive,6/17/2025 13:36
+Hyperactive,6/17/2025 13:36
+Hyperactive,6/17/2025 13:36
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:37
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:38
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:39
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:40
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:41
+Hyperactive,6/17/2025 13:42
+Hyperactive,6/17/2025 13:42
+Hyperactive,6/17/2025 13:42
+Hyperactive,6/17/2025 13:42
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:43
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:44
+Hyperactive,6/17/2025 13:45
+Hyperactive,6/17/2025 13:45
+Hyperactive,6/17/2025 13:45
+Hyperactive,6/17/2025 13:45
+Hyperactive,6/17/2025 13:46
+Hyperactive,6/17/2025 13:46
+Hyperactive,6/17/2025 13:46
+Hyperactive,6/17/2025 13:46
+Hyperactive,6/17/2025 13:46
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:47
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:48
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:49
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:50
+Hyperactive,6/17/2025 13:51
+Hyperactive,6/17/2025 13:51
+Hyperactive,6/17/2025 13:51
+Hyperactive,6/17/2025 13:51
+Hyperactive,6/17/2025 13:52
+Hyperactive,6/17/2025 13:52
+Hyperactive,6/17/2025 13:52
+Hyperactive,6/17/2025 13:52
+Hyperactive,6/17/2025 13:52
+Hyperactive,6/17/2025 13:53
+Hyperactive,6/17/2025 13:53
+Hyperactive,6/17/2025 13:53
+Hyperactive,6/17/2025 13:53
+Hyperactive,6/17/2025 13:53
+Hyperactive,6/17/2025 13:54
+Hyperactive,6/17/2025 13:54
+Hyperactive,6/17/2025 13:54
+Hyperactive,6/17/2025 13:54
+Hyperactive,6/17/2025 13:54
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:55
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:56
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:57
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:58
+Hyperactive,6/17/2025 13:59
+Hyperactive,6/17/2025 13:59
+Hyperactive,6/17/2025 13:59
+Hyperactive,6/17/2025 13:59
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:00
+Low motion,6/17/2025 14:01
+Low motion,6/17/2025 14:01
+Low motion,6/17/2025 14:01
+Low motion,6/17/2025 14:01
+Low motion,6/17/2025 14:01
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:02
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:03
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:04
+Low motion,6/17/2025 14:05
+Low motion,6/17/2025 14:05
+Low motion,6/17/2025 14:05
+Low motion,6/17/2025 14:05
+Low motion,6/17/2025 14:05
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:06
+Low motion,6/17/2025 14:07
+Low motion,6/17/2025 14:07
+Low motion,6/17/2025 14:07
+Low motion,6/17/2025 14:07
+Low motion,6/17/2025 14:07
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:08
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:09
+Low motion,6/17/2025 14:10
+Low motion,6/17/2025 14:10
+Low motion,6/17/2025 14:10
+Low motion,6/17/2025 14:10
+Low motion,6/17/2025 14:10
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:11
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:12
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:13
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:14
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:15
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:16
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:17
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:18
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:19
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:20
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:21
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:22
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:23
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:24
+Low motion,6/17/2025 14:25
+Low motion,6/17/2025 14:25
+Low motion,6/17/2025 14:25
+Low motion,6/17/2025 14:25
+Low motion,6/17/2025 14:25
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:26
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:27
+Low motion,6/17/2025 14:28
+Low motion,6/17/2025 14:28
+Low motion,6/17/2025 14:28
+Low motion,6/17/2025 14:28
+Low motion,6/17/2025 14:28
+Low motion,6/17/2025 14:29
+Low motion,6/17/2025 14:29
+Low motion,6/17/2025 14:29
+Low motion,6/17/2025 14:29
+Low motion,6/17/2025 14:29
+Low motion,6/17/2025 14:29
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:30
+Still,6/17/2025 14:31
+Still,6/17/2025 14:31
+Still,6/17/2025 14:31
+Still,6/17/2025 14:31
+Still,6/17/2025 14:31
+Still,6/17/2025 14:32
+Still,6/17/2025 14:32
+Still,6/17/2025 14:32
+Still,6/17/2025 14:32
+Still,6/17/2025 14:32
+Still,6/17/2025 14:32
+Still,6/17/2025 14:33
+Still,6/17/2025 14:33
+Still,6/17/2025 14:33
+Still,6/17/2025 14:33
+Still,6/17/2025 14:33
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:34
+Still,6/17/2025 14:35
+Still,6/17/2025 14:35
+Still,6/17/2025 14:35
+Still,6/17/2025 14:35
+Still,6/17/2025 14:35
+Still,6/17/2025 14:35
+Still,6/17/2025 14:36
+Still,6/17/2025 14:36
+Still,6/17/2025 14:36
+Still,6/17/2025 14:36
+Still,6/17/2025 14:36
+Still,6/17/2025 14:37
+Still,6/17/2025 14:37
+Still,6/17/2025 14:37
+Still,6/17/2025 14:37
+Still,6/17/2025 14:37
+Still,6/17/2025 14:38
+Still,6/17/2025 14:38
+Still,6/17/2025 14:38
+Still,6/17/2025 14:38
+Still,6/17/2025 14:38
+Still,6/17/2025 14:38
+Still,6/17/2025 14:39
+Still,6/17/2025 14:39
+Still,6/17/2025 14:39
+Still,6/17/2025 14:39
+Still,6/17/2025 14:39
+Still,6/17/2025 14:39
+Still,6/17/2025 14:40
+Still,6/17/2025 14:40
+Still,6/17/2025 14:40
+Still,6/17/2025 14:40
+Still,6/17/2025 14:40
+Still,6/17/2025 14:41
+Still,6/17/2025 14:41
+Still,6/17/2025 14:41
+Still,6/17/2025 14:41
+Still,6/17/2025 14:41
+Still,6/17/2025 14:41
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:42
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:43
+Still,6/17/2025 14:44
+Still,6/17/2025 14:44
+Still,6/17/2025 14:44
+Still,6/17/2025 14:44
+Still,6/17/2025 14:44
+Still,6/17/2025 14:44
+Still,6/17/2025 14:45
+Still,6/17/2025 14:45
+Still,6/17/2025 14:45
+Still,6/17/2025 14:45
+Still,6/17/2025 14:45
+Still,6/17/2025 14:45
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:46
+Still,6/17/2025 14:47
+Still,6/17/2025 14:47
+Still,6/17/2025 14:47
+Still,6/17/2025 14:47
+Still,6/17/2025 14:47
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:48
+Still,6/17/2025 14:49
+Still,6/17/2025 14:49
+Still,6/17/2025 14:49
+Still,6/17/2025 14:49
+Still,6/17/2025 14:49
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:50
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:51
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:52
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:53
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:54
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:55
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:56
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:57
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:58
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 14:59
+Still,6/17/2025 15:00
+Still,6/17/2025 15:00
+Still,6/17/2025 15:00
+Still,6/17/2025 15:00
+Still,6/17/2025 15:00
+Still,6/17/2025 15:00
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:01
+Still,6/17/2025 15:02
+Still,6/17/2025 15:02
+Still,6/17/2025 15:02
+Still,6/17/2025 15:02
+Still,6/17/2025 15:02
+Still,6/17/2025 15:02
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:03
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:04
+Still,6/17/2025 15:05
+Still,6/17/2025 15:05
+Still,6/17/2025 15:05
+Still,6/17/2025 15:05
+Still,6/17/2025 15:05
+Still,6/17/2025 15:05
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:06
+Still,6/17/2025 15:07
+Still,6/17/2025 15:07
+Still,6/17/2025 15:07
+Still,6/17/2025 15:07
+Still,6/17/2025 15:07
+Still,6/17/2025 15:07
+Still,6/17/2025 15:08
+Still,6/17/2025 15:08
+Still,6/17/2025 15:08
+Still,6/17/2025 15:08
+Still,6/17/2025 15:08
+Still,6/17/2025 15:08
+Still,6/17/2025 15:09
+Still,6/17/2025 15:09
+Still,6/17/2025 15:09
+Still,6/17/2025 15:09
+Still,6/17/2025 15:09
+Still,6/17/2025 15:10
+Still,6/17/2025 15:10
+Still,6/17/2025 15:10
+Still,6/17/2025 15:10
+Still,6/17/2025 15:10
+Still,6/17/2025 15:10
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:11
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:12
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:13
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:14
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:15
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:16
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:17
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:18
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:19
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:20
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:21
+Still,6/17/2025 15:22
+Still,6/17/2025 15:22
+Still,6/17/2025 15:22
+Still,6/17/2025 15:22
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:23
+Still,6/17/2025 15:24
+Still,6/17/2025 15:24
+Still,6/17/2025 15:24
+Still,6/17/2025 15:24
+Still,6/17/2025 15:24
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:25
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:26
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:27
+Still,6/17/2025 15:28
+Still,6/17/2025 15:28
+Still,6/17/2025 15:28
+Still,6/17/2025 15:28
+Still,6/17/2025 15:28
+Still,6/17/2025 15:28
+Still,6/17/2025 15:29
+Still,6/17/2025 15:29
+Still,6/17/2025 15:29
+Still,6/17/2025 15:29
+Still,6/17/2025 15:29
+Normal,6/17/2025 15:30
+Normal,6/17/2025 15:30
+Normal,6/17/2025 15:30
+Normal,6/17/2025 15:30
+Normal,6/17/2025 15:30
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:31
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:32
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:33
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:34
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:35
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:36
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:37
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:38
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:39
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:40
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:41
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:42
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:43
+Normal,6/17/2025 15:44
+Normal,6/17/2025 15:44
+Normal,6/17/2025 15:44
+Normal,6/17/2025 15:44
+Normal,6/17/2025 15:44
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:45
+Normal,6/17/2025 15:46
+Normal,6/17/2025 15:46
+Normal,6/17/2025 15:46
+Normal,6/17/2025 15:46
+Normal,6/17/2025 15:46
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:47
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:48
+Normal,6/17/2025 15:49
+Normal,6/17/2025 15:49
+Normal,6/17/2025 15:49
+Normal,6/17/2025 15:49
+Normal,6/17/2025 15:49
+Normal,6/17/2025 15:50
+Normal,6/17/2025 15:50
+Normal,6/17/2025 15:50
+Normal,6/17/2025 15:50
+Normal,6/17/2025 15:50
+Normal,6/17/2025 15:51
+Normal,6/17/2025 15:51
+Normal,6/17/2025 15:51
+Normal,6/17/2025 15:51
+Normal,6/17/2025 15:51
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:52
+Normal,6/17/2025 15:53
+Normal,6/17/2025 15:53
+Normal,6/17/2025 15:53
+Normal,6/17/2025 15:53
+Normal,6/17/2025 15:53
+Normal,6/17/2025 15:54
+Normal,6/17/2025 15:54
+Normal,6/17/2025 15:54
+Normal,6/17/2025 15:54
+Normal,6/17/2025 15:54
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:55
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:56
+Normal,6/17/2025 15:57
+Normal,6/17/2025 15:57
+Normal,6/17/2025 15:57
+Normal,6/17/2025 15:57
+Normal,6/17/2025 15:57
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:58
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Normal,6/17/2025 15:59
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:00
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:01
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:02
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:03
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:04
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:05
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:06
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:07
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:08
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:09
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:10
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:11
+Still,6/17/2025 16:12
+Still,6/17/2025 16:12
+Still,6/17/2025 16:12
+Still,6/17/2025 16:12
+Still,6/17/2025 16:12
+Still,6/17/2025 16:12
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:13
+Still,6/17/2025 16:14
+Still,6/17/2025 16:14
+Still,6/17/2025 16:14
+Still,6/17/2025 16:14
+Still,6/17/2025 16:14
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:15
+Still,6/17/2025 16:16
+Still,6/17/2025 16:16
+Still,6/17/2025 16:16
+Still,6/17/2025 16:16
+Still,6/17/2025 16:16
+Still,6/17/2025 16:16
+Still,6/17/2025 16:17
+Still,6/17/2025 16:17
+Still,6/17/2025 16:17
+Still,6/17/2025 16:17
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:18
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:19
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:20
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:21
+Still,6/17/2025 16:22
+Still,6/17/2025 16:22
+Still,6/17/2025 16:22
+Still,6/17/2025 16:22
+Still,6/17/2025 16:22
+Still,6/17/2025 16:22
+Still,6/17/2025 16:23
+Still,6/17/2025 16:23
+Still,6/17/2025 16:23
+Still,6/17/2025 16:23
+Still,6/17/2025 16:23
+Still,6/17/2025 16:23
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:24
+Still,6/17/2025 16:25
+Still,6/17/2025 16:25
+Still,6/17/2025 16:25
+Still,6/17/2025 16:25
+Still,6/17/2025 16:25
+Still,6/17/2025 16:25
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:26
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:27
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:28
+Still,6/17/2025 16:29
+Still,6/17/2025 16:29
+Still,6/17/2025 16:29
+Still,6/17/2025 16:29
+Still,6/17/2025 16:29
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:30
+Still,6/17/2025 16:31
+Still,6/17/2025 16:31
+Still,6/17/2025 16:31
+Still,6/17/2025 16:31
+Still,6/17/2025 16:31
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:32
+Still,6/17/2025 16:33
+Still,6/17/2025 16:33
+Still,6/17/2025 16:33
+Still,6/17/2025 16:33
+Still,6/17/2025 16:34
+Still,6/17/2025 16:34
+Still,6/17/2025 16:34
+Still,6/17/2025 16:34
+Still,6/17/2025 16:34
+Still,6/17/2025 16:34
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:35
+Still,6/17/2025 16:36
+Still,6/17/2025 16:36
+Still,6/17/2025 16:36
+Still,6/17/2025 16:36
+Still,6/17/2025 16:36
+Still,6/17/2025 16:36
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:37
+Still,6/17/2025 16:38
+Still,6/17/2025 16:38
+Still,6/17/2025 16:38
+Still,6/17/2025 16:38
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:39
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:40
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:41
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:42
+Still,6/17/2025 16:43
+Still,6/17/2025 16:43
+Still,6/17/2025 16:43
+Still,6/17/2025 16:43
+Still,6/17/2025 16:43
+Still,6/17/2025 16:44
+Still,6/17/2025 16:44
+Still,6/17/2025 16:44
+Still,6/17/2025 16:44
+Still,6/17/2025 16:44
+Still,6/17/2025 16:44
+Still,6/17/2025 16:45
+Still,6/17/2025 16:45
+Still,6/17/2025 16:45
+Still,6/17/2025 16:45
+Still,6/17/2025 16:46
+Still,6/17/2025 16:46
+Still,6/17/2025 16:46
+Still,6/17/2025 16:46
+Still,6/17/2025 16:46
+Still,6/17/2025 16:46
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:47
+Still,6/17/2025 16:48
+Still,6/17/2025 16:48
+Still,6/17/2025 16:48
+Still,6/17/2025 16:48
+Still,6/17/2025 16:48
+Still,6/17/2025 16:48
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:49
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:50
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:51
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:52
+Still,6/17/2025 16:53
+Still,6/17/2025 16:53
+Still,6/17/2025 16:53
+Still,6/17/2025 16:53
+Still,6/17/2025 16:53
+Still,6/17/2025 16:53
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:54
+Still,6/17/2025 16:55
+Still,6/17/2025 16:55
+Still,6/17/2025 16:55
+Still,6/17/2025 16:55
+Still,6/17/2025 16:59
+Still,6/17/2025 16:59
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:13
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:14
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:15
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:16
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:17
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:18
+High motion,6/17/2025 17:19
+High motion,6/17/2025 17:19
+High motion,6/17/2025 17:19
+High motion,6/17/2025 17:19
+High motion,6/17/2025 17:19
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:20
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:21
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:22
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:23
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:24
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:25
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:26
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:27
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:28
+High motion,6/17/2025 17:29
+High motion,6/17/2025 17:29
+High motion,6/17/2025 17:29
+High motion,6/17/2025 17:29
+High motion,6/17/2025 17:29
+High motion,6/17/2025 17:30
+High motion,6/17/2025 17:30
+High motion,6/17/2025 17:30
+High motion,6/17/2025 17:30
+High motion,6/17/2025 17:30
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:31
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:32
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:33
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:34
+High motion,6/17/2025 17:35
+High motion,6/17/2025 17:35
+High motion,6/17/2025 17:35
+High motion,6/17/2025 17:35
+High motion,6/17/2025 17:35
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:36
+High motion,6/17/2025 17:37
+High motion,6/17/2025 17:37
+High motion,6/17/2025 17:37
+High motion,6/17/2025 17:37
+High motion,6/17/2025 17:37
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:38
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:39
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:40
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:41
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:42
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:43
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:44
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:45
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:46
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:47
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:48
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:49
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:50
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:51
+High motion,6/17/2025 17:52
+High motion,6/17/2025 17:52
+High motion,6/17/2025 17:52
+High motion,6/17/2025 17:52
+High motion,6/17/2025 17:52
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:53
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:54
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:55
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:56
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:57
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:58
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+High motion,6/17/2025 17:59
+Still,6/17/2025 18:00
+Still,6/17/2025 18:00
+Still,6/17/2025 18:00
+Still,6/17/2025 18:00
+Still,6/17/2025 18:00
+Still,6/17/2025 18:00
+Still,6/17/2025 18:01
+Still,6/17/2025 18:01
+Still,6/17/2025 18:01
+Still,6/17/2025 18:01
+Still,6/17/2025 18:01
+Still,6/17/2025 18:01
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:02
+Still,6/17/2025 18:03
+Still,6/17/2025 18:03
+Still,6/17/2025 18:03
+Still,6/17/2025 18:03
+Still,6/17/2025 18:03
+Still,6/17/2025 18:04
+Still,6/17/2025 18:04
+Still,6/17/2025 18:04
+Still,6/17/2025 18:04
+Still,6/17/2025 18:04
+Still,6/17/2025 18:04
+Still,6/17/2025 18:05
+Still,6/17/2025 18:05
+Still,6/17/2025 18:05
+Still,6/17/2025 18:05
+Still,6/17/2025 18:06
+Still,6/17/2025 18:06
+Still,6/17/2025 18:06
+Still,6/17/2025 18:06
+Still,6/17/2025 18:06
+Still,6/17/2025 18:07
+Still,6/17/2025 18:07
+Still,6/17/2025 18:07
+Still,6/17/2025 18:07
+Still,6/17/2025 18:08
+Still,6/17/2025 18:08
+Still,6/17/2025 18:08
+Still,6/17/2025 18:08
+Still,6/17/2025 18:08
+Still,6/17/2025 18:09
+Still,6/17/2025 18:09
+Still,6/17/2025 18:09
+Still,6/17/2025 18:09
+Still,6/17/2025 18:09
+Still,6/17/2025 18:10
+Still,6/17/2025 18:10
+Still,6/17/2025 18:10
+Still,6/17/2025 18:10
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:11
+Still,6/17/2025 18:12
+Still,6/17/2025 18:12
+Still,6/17/2025 18:12
+Still,6/17/2025 18:12
+Still,6/17/2025 18:12
+Still,6/17/2025 18:12
+Still,6/17/2025 18:13
+Still,6/17/2025 18:13
+Still,6/17/2025 18:13
+Still,6/17/2025 18:13
+Still,6/17/2025 18:13
+Still,6/17/2025 18:14
+Still,6/17/2025 18:14
+Still,6/17/2025 18:14
+Still,6/17/2025 18:14
+Still,6/17/2025 18:15
+Still,6/17/2025 18:15
+Still,6/17/2025 18:15
+Still,6/17/2025 18:15
+Still,6/17/2025 18:15
+Still,6/17/2025 18:15
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:16
+Still,6/17/2025 18:17
+Still,6/17/2025 18:17
+Still,6/17/2025 18:17
+Still,6/17/2025 18:17
+Still,6/17/2025 18:17
+Still,6/17/2025 18:17
+Still,6/17/2025 18:18
+Still,6/17/2025 18:18
+Still,6/17/2025 18:18
+Still,6/17/2025 18:18
+Still,6/17/2025 18:18
+Still,6/17/2025 18:18
+Still,6/17/2025 18:19
+Still,6/17/2025 18:19
+Still,6/17/2025 18:19
+Still,6/17/2025 18:19
+Still,6/17/2025 18:19
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:20
+Still,6/17/2025 18:21
+Still,6/17/2025 18:21
+Still,6/17/2025 18:21
+Still,6/17/2025 18:21
+Still,6/17/2025 18:21
+Still,6/17/2025 18:22
+Still,6/17/2025 18:22
+Still,6/17/2025 18:22
+Still,6/17/2025 18:22
+Still,6/17/2025 18:22
+Still,6/17/2025 18:22
+Still,6/17/2025 18:23
+Still,6/17/2025 18:23
+Still,6/17/2025 18:23
+Still,6/17/2025 18:23
+Still,6/17/2025 18:23
+Still,6/17/2025 18:24
+Still,6/17/2025 18:24
+Still,6/17/2025 18:24
+Still,6/17/2025 18:24
+Still,6/17/2025 18:24
+Still,6/17/2025 18:25
+Still,6/17/2025 18:25
+Still,6/17/2025 18:25
+Still,6/17/2025 18:25
+Still,6/17/2025 18:25
+Still,6/17/2025 18:26
+Still,6/17/2025 18:26
+Still,6/17/2025 18:26
+Still,6/17/2025 18:26
+Still,6/17/2025 18:26
+Still,6/17/2025 18:26
+Still,6/17/2025 18:27
+Still,6/17/2025 18:27
+Still,6/17/2025 18:27
+Still,6/17/2025 18:27
+Still,6/17/2025 18:27
+Still,6/17/2025 18:27
+Still,6/17/2025 18:28
+Still,6/17/2025 18:28
+Still,6/17/2025 18:28
+Still,6/17/2025 18:28
+Still,6/17/2025 18:28
+Still,6/17/2025 18:28
+Still,6/17/2025 18:29
+Still,6/17/2025 18:29
+Still,6/17/2025 18:29
+Still,6/17/2025 18:29
+Still,6/17/2025 18:29
+Still,6/17/2025 18:29
+Still,6/17/2025 18:30
+Still,6/17/2025 18:30
+Still,6/17/2025 18:30
+Still,6/17/2025 18:30
+Still,6/17/2025 18:30
+Still,6/17/2025 18:30
+Still,6/17/2025 18:31
+Still,6/17/2025 18:31
+Still,6/17/2025 18:31
+Still,6/17/2025 18:31
+Still,6/17/2025 18:31
+Still,6/17/2025 18:32
+Still,6/17/2025 18:32
+Still,6/17/2025 18:32
+Still,6/17/2025 18:32
+Still,6/17/2025 18:32
+Still,6/17/2025 18:32
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:33
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:34
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:35
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:36
+Still,6/17/2025 18:37
+Still,6/17/2025 18:37
+Still,6/17/2025 18:37
+Still,6/17/2025 18:37
+Still,6/17/2025 18:37
+Still,6/17/2025 18:38
+Still,6/17/2025 18:38
+Still,6/17/2025 18:38
+Still,6/17/2025 18:38
+Still,6/17/2025 18:38
+Still,6/17/2025 18:39
+Still,6/17/2025 18:39
+Still,6/17/2025 18:39
+Still,6/17/2025 18:39
+Still,6/17/2025 18:39
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:40
+Still,6/17/2025 18:41
+Still,6/17/2025 18:41
+Still,6/17/2025 18:41
+Still,6/17/2025 18:41
+Still,6/17/2025 18:41
+Still,6/17/2025 18:41
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:42
+Still,6/17/2025 18:43
+Still,6/17/2025 18:43
+Still,6/17/2025 18:43
+Still,6/17/2025 18:43
+Still,6/17/2025 18:43
+Still,6/17/2025 18:43
+Still,6/17/2025 18:44
+Still,6/17/2025 18:44
+Still,6/17/2025 18:44
+Still,6/17/2025 18:44
+Still,6/17/2025 18:44
+Still,6/17/2025 18:45
+Still,6/17/2025 18:45
+Still,6/17/2025 18:45
+Still,6/17/2025 18:45
+Still,6/17/2025 18:45
+Still,6/17/2025 18:46
+Still,6/17/2025 18:46
+Still,6/17/2025 18:46
+Still,6/17/2025 18:46
+Still,6/17/2025 18:46
+Still,6/17/2025 18:47
+Still,6/17/2025 18:47
+Still,6/17/2025 18:47
+Still,6/17/2025 18:47
+Still,6/17/2025 18:47
+Still,6/17/2025 18:48
+Still,6/17/2025 18:48
+Still,6/17/2025 18:48
+Still,6/17/2025 18:48
+Still,6/17/2025 18:48
+Still,6/17/2025 18:48
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:49
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:50
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:51
+Still,6/17/2025 18:52
+Still,6/17/2025 18:52
+Still,6/17/2025 18:52
+Still,6/17/2025 18:52
+Still,6/17/2025 18:52
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:53
+Still,6/17/2025 18:54
+Still,6/17/2025 18:54
+Still,6/17/2025 18:54
+Still,6/17/2025 18:54
+Still,6/17/2025 18:54
+Still,6/17/2025 18:54
+Still,6/17/2025 18:55
+Still,6/17/2025 18:55
+Still,6/17/2025 18:55
+Still,6/17/2025 18:55
+Still,6/17/2025 18:55
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:56
+Still,6/17/2025 18:57
+Still,6/17/2025 18:57
+Still,6/17/2025 18:57
+Still,6/17/2025 18:57
+Still,6/17/2025 18:57
+Still,6/17/2025 18:57
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:58
+Still,6/17/2025 18:59
+Still,6/17/2025 18:59
+Still,6/17/2025 18:59
+Still,6/17/2025 18:59
+Still,6/17/2025 18:59
+Still,6/17/2025 18:59
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:00
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:01
+Low motion,6/17/2025 19:02
+Low motion,6/17/2025 19:02
+Low motion,6/17/2025 19:02
+Low motion,6/17/2025 19:02
+Low motion,6/17/2025 19:02
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:03
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:04
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:05
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:06
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:07
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:08
+Low motion,6/17/2025 19:09
+Low motion,6/17/2025 19:09
+Low motion,6/17/2025 19:09
+Low motion,6/17/2025 19:09
+Low motion,6/17/2025 19:09
+Low motion,6/17/2025 19:10
+Low motion,6/17/2025 19:10
+Low motion,6/17/2025 19:10
+Low motion,6/17/2025 19:10
+Low motion,6/17/2025 19:10
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:11
+Low motion,6/17/2025 19:12
+Low motion,6/17/2025 19:12
+Low motion,6/17/2025 19:12
+Low motion,6/17/2025 19:12
+Low motion,6/17/2025 19:12
+Low motion,6/17/2025 19:13
+Low motion,6/17/2025 19:13
+Low motion,6/17/2025 19:13
+Low motion,6/17/2025 19:13
+Low motion,6/17/2025 19:14
+Low motion,6/17/2025 19:14
+Low motion,6/17/2025 19:14
+Low motion,6/17/2025 19:14
+Low motion,6/17/2025 19:14
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:15
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:16
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:17
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:18
+Low motion,6/17/2025 19:19
+Low motion,6/17/2025 19:19
+Low motion,6/17/2025 19:19
+Low motion,6/17/2025 19:19
+Low motion,6/17/2025 19:19
+Low motion,6/17/2025 19:20
+Low motion,6/17/2025 19:20
+Low motion,6/17/2025 19:20
+Low motion,6/17/2025 19:20
+Low motion,6/17/2025 19:20
+Low motion,6/17/2025 19:21
+Low motion,6/17/2025 19:21
+Low motion,6/17/2025 19:21
+Low motion,6/17/2025 19:21
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:22
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:23
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:24
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:25
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:26
+Low motion,6/17/2025 19:27
+Low motion,6/17/2025 19:27
+Low motion,6/17/2025 19:27
+Low motion,6/17/2025 19:27
+Low motion,6/17/2025 19:27
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:28
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:29
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:30
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:31
+Low motion,6/17/2025 19:32
+Low motion,6/17/2025 19:32
+Low motion,6/17/2025 19:32
+Low motion,6/17/2025 19:32
+Low motion,6/17/2025 19:33
+Low motion,6/17/2025 19:33
+Low motion,6/17/2025 19:33
+Low motion,6/17/2025 19:33
+Low motion,6/17/2025 19:34
+Low motion,6/17/2025 19:34
+Low motion,6/17/2025 19:34
+Low motion,6/17/2025 19:34
+Low motion,6/17/2025 19:35
+Low motion,6/17/2025 19:35
+Low motion,6/17/2025 19:35
+Low motion,6/17/2025 19:35
+Low motion,6/17/2025 19:35
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:36
+Low motion,6/17/2025 19:37
+Low motion,6/17/2025 19:37
+Low motion,6/17/2025 19:37
+Low motion,6/17/2025 19:37
+Low motion,6/17/2025 19:38
+Low motion,6/17/2025 19:38
+Low motion,6/17/2025 19:38
+Low motion,6/17/2025 19:38
+Low motion,6/17/2025 19:38
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:39
+Low motion,6/17/2025 19:40
+Low motion,6/17/2025 19:40
+Low motion,6/17/2025 19:40
+Low motion,6/17/2025 19:40
+Low motion,6/17/2025 19:40
+Low motion,6/17/2025 19:41
+Low motion,6/17/2025 19:41
+Low motion,6/17/2025 19:41
+Low motion,6/17/2025 19:41
+Low motion,6/17/2025 19:42
+Low motion,6/17/2025 19:42
+Low motion,6/17/2025 19:42
+Low motion,6/17/2025 19:42
+Low motion,6/17/2025 19:43
+Low motion,6/17/2025 19:43
+Low motion,6/17/2025 19:43
+Low motion,6/17/2025 19:43
+Low motion,6/17/2025 19:43
+Low motion,6/17/2025 19:44
+Low motion,6/17/2025 19:44
+Low motion,6/17/2025 19:44
+Low motion,6/17/2025 19:44
+Low motion,6/17/2025 19:44
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:45
+Low motion,6/17/2025 19:46
+Low motion,6/17/2025 19:46
+Low motion,6/17/2025 19:46
+Low motion,6/17/2025 19:46
+Low motion,6/17/2025 19:46
+Low motion,6/17/2025 19:47
+Low motion,6/17/2025 19:47
+Low motion,6/17/2025 19:47
+Low motion,6/17/2025 19:47
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:48
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:49
+Low motion,6/17/2025 19:50
+Low motion,6/17/2025 19:50
+Low motion,6/17/2025 19:50
+Low motion,6/17/2025 19:50
+Low motion,6/17/2025 19:50
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:51
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:52
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:53
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:54
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:55
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:56
+Low motion,6/17/2025 19:57
+Low motion,6/17/2025 19:57
+Low motion,6/17/2025 19:57
+Low motion,6/17/2025 19:57
+Low motion,6/17/2025 19:57
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:58
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 19:59
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:00
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:01
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:02
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:03
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:04
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:05
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:06
+Low motion,6/17/2025 20:07
+Low motion,6/17/2025 20:07
+Low motion,6/17/2025 20:07
+Low motion,6/17/2025 20:07
+Low motion,6/17/2025 20:07
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:08
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:09
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:10
+Low motion,6/17/2025 20:11
+Low motion,6/17/2025 20:11
+Low motion,6/17/2025 20:11
+Low motion,6/17/2025 20:11
+Low motion,6/17/2025 20:12
+Low motion,6/17/2025 20:12
+Low motion,6/17/2025 20:12
+Low motion,6/17/2025 20:12
+Low motion,6/17/2025 20:12
+Low motion,6/17/2025 20:13
+Low motion,6/17/2025 20:13
+Low motion,6/17/2025 20:13
+Low motion,6/17/2025 20:13
+Low motion,6/17/2025 20:13
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:14
+Low motion,6/17/2025 20:15
+Low motion,6/17/2025 20:15
+Low motion,6/17/2025 20:15
+Low motion,6/17/2025 20:15
+Low motion,6/17/2025 20:15
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:16
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:17
+Low motion,6/17/2025 20:18
+Low motion,6/17/2025 20:18
+Low motion,6/17/2025 20:18
+Low motion,6/17/2025 20:18
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:19
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:20
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:21
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:22
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:23
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:24
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:25
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:26
+Low motion,6/17/2025 20:27
+Low motion,6/17/2025 20:27
+Low motion,6/17/2025 20:27
+Low motion,6/17/2025 20:27
+Low motion,6/17/2025 20:27
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:28
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:29
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:30
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:31
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:32
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:33
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:34
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:35
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:36
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:37
+Low motion,6/17/2025 20:38
+Low motion,6/17/2025 20:38
+Low motion,6/17/2025 20:38
+Low motion,6/17/2025 20:38
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:39
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:40
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:41
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:42
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:43
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:44
+Low motion,6/17/2025 20:45
+Low motion,6/17/2025 20:45
+Low motion,6/17/2025 20:45
+Low motion,6/17/2025 20:45
+Low motion,6/17/2025 20:45
+Low motion,6/17/2025 20:46
+Low motion,6/17/2025 20:46
+Low motion,6/17/2025 20:46
+Low motion,6/17/2025 20:46
+Low motion,6/17/2025 20:46
+Low motion,6/17/2025 20:47
+Low motion,6/17/2025 20:47
+Low motion,6/17/2025 20:47
+Low motion,6/17/2025 20:47
+Low motion,6/17/2025 20:47
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:48
+Low motion,6/17/2025 20:49
+Low motion,6/17/2025 20:49
+Low motion,6/17/2025 20:49
+Low motion,6/17/2025 20:49
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:50
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:51
+Low motion,6/17/2025 20:52
+Low motion,6/17/2025 20:52
+Low motion,6/17/2025 20:52
+Low motion,6/17/2025 20:52
+Low motion,6/17/2025 20:52
+Low motion,6/17/2025 20:53
+Low motion,6/17/2025 20:53
+Low motion,6/17/2025 20:53
+Low motion,6/17/2025 20:53
+Low motion,6/17/2025 20:53
+Low motion,6/17/2025 20:54
+Low motion,6/17/2025 20:54
+Low motion,6/17/2025 20:54
+Low motion,6/17/2025 20:54
+Low motion,6/17/2025 20:54
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:55
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:56
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:57
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:58
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Low motion,6/17/2025 20:59
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:00
+Still,6/17/2025 21:01
+Still,6/17/2025 21:01
+Still,6/17/2025 21:01
+Still,6/17/2025 21:01
