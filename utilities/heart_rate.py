@@ -63,7 +63,7 @@ class HeartRateProcessor:
 
         # Merge with maapping
         self.df_30min = self.df_30min.merge(
-            self.state_mapping[['HeartRate', 'stress_score_state']],
+            self.state_mapping[['HeartRate', 'stress_score_state','State']],
             left_on='avg_hr_rounded',
             right_on='HeartRate',
             how='left'
@@ -100,6 +100,15 @@ def get_wearable_stress_score(time):
     if filtered.empty:
         return None
 
-    latest_row = filtered.iloc[-1]
-    print(latest_row)
+    latest_row = filtered.iloc[-1:]
+    print(latest_row[['avg_30_min','stress_score_hr','State','stress_score_state','stress_score_combined']])
     return latest_row['stress_score_combined']
+
+if __name__ == "__main__":
+    # Example usage
+    time_input = input("Enter a time (hh:mm): ")
+    stress_score = get_wearable_stress_score(time_input)
+    if stress_score is not None:
+        print(f"Stress score at {time_input}: {stress_score}")
+    else:
+        print(f"No data available for the time {time_input}.")
