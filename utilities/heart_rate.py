@@ -97,7 +97,7 @@ def get_wearable_stress_score(time):
     if filtered.empty:
         return None
 
-    latest_row = filtered.iloc[-1:]
+    latest_row = filtered.iloc[-1]
     print(latest_row[['avg_30_min','stress_score_hr','State','stress_score_state','stress_score_combined']])
     return latest_row['stress_score_combined']
 
